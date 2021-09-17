@@ -11,6 +11,8 @@ I have a multitask profile and I'm passionate about the concepts of agile method
 
 🇧🇷 Brazilian
 
+📎 <a href= "drive.google.com/file/d/1QftDiyh4GYvwwnx704bDqUWhEh0eLojh/view?usp=sharing"> My Resume </a>
+
 <div>
   <a href="https://github.com/leticiaspcruz/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiaspcruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
