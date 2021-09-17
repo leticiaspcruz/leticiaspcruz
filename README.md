@@ -25,4 +25,5 @@ I have a multitask profile and I'm passionate about the concepts of agile method
   <a href="www.linkedin.com/in/let%C3%ADciasantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
+  
   ![Snake animation](https://github.com/leticiaspcruz/leticiaspcruz/blob/output/github-contribution-grid-snake.svg)
