@@ -1,7 +1,10 @@
 
 ## Letícia dos Santos Cruz
 
-Hi! I work at a Digital Marketing agency and currently I'm studying about Data Analytics and Front-End development. 💻
+<img align="left" alt="yoda" src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif?cid=ecf05e47a779du6alvqxf13oopshpfudnsot22h1sky5gyde&rid=giphy.gif&ct=g">
+
+<br> 
+I work at a Digital Marketing agency and currently I'm studying about Data Analytics and Front-End development. 💻
 
 I have a multitask profile and I'm passionate about the concepts of agile methodologies. 
 
@@ -12,6 +15,11 @@ I have a multitask profile and I'm passionate about the concepts of agile method
 🇧🇷 Brazilian
 
 📎 <a href= "drive.google.com/file/d/1QftDiyh4GYvwwnx704bDqUWhEh0eLojh/view?usp=sharing"> My Resume </a>
+<br>
+<br>
+<br>
+<br>
+
 
 <div>
   <a href="https://github.com/leticiaspcruz/">
