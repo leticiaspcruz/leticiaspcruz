@@ -14,7 +14,7 @@ I have a multitask profile and I'm passionate about the concepts of agile method
 
 🇧🇷 Brazilian
 
-📎 <a href= "drive.google.com/file/d/1QftDiyh4GYvwwnx704bDqUWhEh0eLojh/view?usp=sharing"> My Resume </a>
+📎 <a href= "https://drive.google.com/file/d/1QftDiyh4GYvwwnx704bDqUWhEh0eLojh/view?usp=sharing"> My Resume </a>
 <br>
 <br>
 <br>
