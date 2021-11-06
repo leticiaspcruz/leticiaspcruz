@@ -4,9 +4,7 @@
 <img align="left" alt="yoda" src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif?cid=ecf05e47a779du6alvqxf13oopshpfudnsot22h1sky5gyde&rid=giphy.gif&ct=g">
 
 <br> 
-Hello! I have a bachelor degree in Advertising and started my journey in Digital Marketing in 2014. Since then, I have worked in agencies and companies with Social Media, Inbound Marketing and Ads.
-
-In the last 2 years, I discovered new passions deepening my knowledge in Data Analytics and Full Stack Web Development. I have a multitask profile and my focus is to continue studying about technology. 🖥️
+Hello! I have a bachelor degree in Advertising and started my journey in Digital Marketing in 2014. Since then, I have worked in agencies and companies with Social Media, Inbound Marketing and Ads. In the last 2 years, I discovered new passions deepening my knowledge in Data Analytics and Full Stack Web Development. I have a multitask profile and my focus is to continue studying about technology. 🖥️
 
 🙂 Pronouns: She/Her
 
