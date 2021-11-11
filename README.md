@@ -6,6 +6,7 @@
 <br> 
 Hello! I have a bachelor degree in Advertising and started my journey in Digital Marketing in 2014. Since then, I have worked in agencies and companies with Social Media, Inbound Marketing and Ads. In the last 2 years, I discovered new passions deepening my knowledge in Data Analytics and Full Stack Web Development. I have a multitask profile and my focus is to continue studying about technology. 🖥️
 
+
 🙂 Pronouns: She/Her
 
 🎸 Hobbies: play eletric guitar, travel and hangout with my friends.
