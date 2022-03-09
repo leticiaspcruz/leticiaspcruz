@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/leticiaspcruz/"/></a>
   
   <a href="#" alt="Behance">
-  <img src="https://img.shields.io/badge/-Behance-000?style=flat-square&labelColor=000&logo=behance&logoColor=white&link=https://www.behance.net/leticiaspcruz"/></a>
+  <img src="https://img.shields.io/badge/-Behance-000?style=flat-square&labelColor=000&logo=behance&logoColor=white&link=www.behance.net/leticiaspcruz"/></a>
 </p>  
 
 ## skills
